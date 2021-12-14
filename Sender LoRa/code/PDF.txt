@@ -1,0 +1,2 @@
+Plot: "C:\Users\Khalil\Desktop\LoRa PCB Khalil\LoRa Sender ATMEGA328P\ATMEGA 328P FINAL\ATMEGA 328P.pdf" OK.
+
