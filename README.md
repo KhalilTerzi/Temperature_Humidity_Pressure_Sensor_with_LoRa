@@ -1,0 +1,2 @@
+# Temperature_Humidity_Pressure_Sensor_with_LoRa
+Intelligent Sensor Connected with LoRa
